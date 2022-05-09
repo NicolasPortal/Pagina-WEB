@@ -2,7 +2,7 @@
 
 ## Objetivos
 
-[ ] Página principal y enlaces
-[ ] Presentación
-[ ] Formulario y diseño de controles
-[ ] Hojas de estilo CSS
+-[ ] Página principal y enlaces
+-[ ] Presentación
+-[ ] Formulario y diseño de controles
+-[ ] Hojas de estilo CSS
